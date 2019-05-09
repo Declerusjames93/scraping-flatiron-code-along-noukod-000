@@ -1,7 +1,6 @@
 
-class Course 
+class Course
 
 
 
-end 
-
+end
