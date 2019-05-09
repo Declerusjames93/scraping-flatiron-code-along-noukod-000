@@ -18,6 +18,4 @@ class Course
   end
 
 end
-Run the Course specs again and we should be passing all the tests. We're ready to write our Scraper!
 
-Code Along II: Th
